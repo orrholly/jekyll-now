@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-![](https://orrholly.github.io/images/holly_bigsql.png)
+<div>
+![](https://orrholly.github.io/images/knife.png)
 
+</div>
 
 ### :: I am a  Swiss Army Knife :: 
-![](images/knife.png)  
+  
 
 #### I love the challenge and constant learning curve of technology.
 
