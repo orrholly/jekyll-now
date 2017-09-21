@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Day Job Blogging: PostgreSQL set_user Extension  
+title: Day Job Blogging - PostgreSQL set_user Extension  
 tags: PostgreSQL
 
 ---
