@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![]({{ site.baseurl }}/images/images/holly_bigsql.png "Holly Orr")
+![]({{ site.baseurl }}/images/holly_bigsql.png)
 
 
 ### :: I am a  Swiss Army Knife :: 
