@@ -6,10 +6,10 @@ permalink: /about/
 
 ![](images/holly_bigsql.png) 
 
-###:: I am a  Swiss Army Knife :: 
+### :: I am a  Swiss Army Knife :: 
 ![](images/knife.png)  
 
-####I love the challenge and constant learning curve of technology.
+#### I love the challenge and constant learning curve of technology.
 
 I have spent the past 20+ years working in technology on the east and west coasts. My journey has taken me to  jobs as desktop and web developer, database administrator, data steward, analyst, helpdesk, educator, and product manager. 
 
