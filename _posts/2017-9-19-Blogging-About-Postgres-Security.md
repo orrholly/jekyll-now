@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Blogging About the PostgreSQL set_user Extension  
+title: Day Job Blogging: PostgreSQL set_user Extension  
 tags: PostgreSQL
 
 ---
@@ -9,7 +9,7 @@ For my day job, I've been posting about the set_user extension, which BigSQL now
 
 Here is the first post (I'm writing a series and will add as I move along). It's a necessary enhancment to your PostgreSQL in today's world of data breaches.  Read on...
 
-# BigSQL + set_user Extension
+### BigSQL + set_user Extension
 
 We are excited to announce our newest addition to the [available components][1] with BigSQL PostgreSQL Windows, Linux, and OSX distributions: [set_user 1.4.0][2]!
 
