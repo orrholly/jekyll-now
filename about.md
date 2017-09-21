@@ -4,16 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<div>
-
+<p align="center">
 <img src="https://orrholly.github.io/images/knife.png">
-
-</div>
-
-### :: I am a  Swiss Army Knife :: 
-  
-
-#### I love the challenge and constant learning curve of technology.
+<h1> :: I am a  Swiss Army Knife :: </h1>
+<h2> I love the challenge and constant learning curve of technology.</h2>
+</p>
 
 I have spent the past 20+ years working in technology on the east and west coasts. My journey has taken me to  jobs as desktop and web developer, database administrator, data steward, analyst, helpdesk, educator, and product manager. 
 
