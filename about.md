@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 <div>
-![](https://orrholly.github.io/images/knife.png)
+
+<img src="https://orrholly.github.io/images/knife.png">
 
 </div>
 
