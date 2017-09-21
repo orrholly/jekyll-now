@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![]({{ site.baseurl }}/images/holly_bigsql.png)
+![](https://orrholly.github.io/images/holly_bigsql.png)
 
 
 ### :: I am a  Swiss Army Knife :: 
