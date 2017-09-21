@@ -6,7 +6,7 @@ permalink: /about/
 
 <p align="center">
 <img src="https://orrholly.github.io/images/knife.png">
-<h1> :: I am a  Swiss Army Knife :: </h1>
+ :: I am a  Swiss Army Knife ::
 <h2> I love the challenge and constant learning curve of technology.</h2>
 </p>
 
