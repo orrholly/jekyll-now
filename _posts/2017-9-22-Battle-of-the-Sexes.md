@@ -72,7 +72,7 @@ I've tweaked Billie Jean King's nickname from ```tech girl``` to ```TechMatron``
 	
 After seeing the movie last night, I wish I could go back to that encounter and thank her again - but this time for fighting to keep her seat at the table for something she loved. 
 
-It reminds me that while working toward women's equality and access to opportunities in traditionally (and guarded) male roles, we should always expect a fight. And this requires, diligence, determination... and, yes, stamina. 
+It reminds me that while working toward women's equality and access to opportunities in traditionally (and guarded) male roles, we should always expect a fight. And this requires, courage, determination... and, yes, stamina. 
 
  
 
