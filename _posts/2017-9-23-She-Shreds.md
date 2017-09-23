@@ -1,9 +1,10 @@
 ---
 layout: post
-title: music, feminism
+title: She Shreds
+tags: music, feminism
+
 ---
 
-### She Shreds
 
 ![](../images/shreds.jpg)
 
