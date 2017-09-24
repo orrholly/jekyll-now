@@ -17,6 +17,4 @@ I have an MS in Information and Knowledge Strategy from Columbia University and 
 In a past life, I toured in a rock band playing lead electric guitar. Today, when I’m not attending my son’s break dancing recitals, I play for fun in my rock band, [Giant Gowanus](http://giantgowan.us/).
 
 #### Contact me: [orrholly@gmail.com](mailto:orrholly@gmail.com)
-#### Download resume: 
-
-
+#### Download [resume]({{ site.url }}/images/HOLLY_ORR_Resume.pdf)
