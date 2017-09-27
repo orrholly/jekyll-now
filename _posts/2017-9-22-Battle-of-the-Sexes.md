@@ -5,12 +5,11 @@ tags: feminism, tech
 
 ---
 
-![](../images/battle.jpg)
-
 Last night I saw "[Battle of the Sexes](http://www.foxsearchlight.com/battleofthesexes/)":
 
 > In the wake of the sexual revolution and the rise of the women’s movement, the 1973 tennis match between women’s world champion Billie Jean King and ex-men’s-champ and serial hustler Bobby Riggs was billed as the BATTLE OF THE SEXES and became one of the most watched televised sports events of all time, reaching 90 million viewers around the world.
-
+> 
+> ![](../images/battle.jpg)
 
 It struck me how far we have come in the fight for LGBTQ rights, and how little we have gained in women's rights since this famous match took place. Especially poignant was a scene where Jack Kramer, tennis champ-turned-tennis promoter, claims women players deserve less prize money—despite drawing the same crowd—[because women are biologically inferior](http://www.slate.com/blogs/browbeat/2017/09/21/battle_of_the_sexes_reminders_of_the_2016_election.html).
 
