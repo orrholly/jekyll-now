@@ -12,7 +12,7 @@ I just got my new issue of [She Shreds](http://sheshredsmag.com/).
 
 Man, I wish they had this magazine out when I was 15. Instead, this was typically how women were represented in the high testosterone world of electric guitars. And, well, it was the 80's.
 
-![](../images/sexist_guitar.jpg)
+![](../images/sexist_guitar.JPG)
 
 The fact that [a group of women](http://sheshredsmag.com/about/) are publishing this makes me super happy. There are little she shredders getting planted and watered all over the world!
 
