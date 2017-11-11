@@ -7,7 +7,7 @@ tags: music, tech
 
 ![](../images/hallway.jpg)
 
-This weekend my band, [Giant Gowanus](http://giantgowan.us/), recorded in my downstairs hallway with the help of our friend /|/| fellow [musician](https://open.spotify.com/artist/1rb7dRSPSAEGaOQouEx5Pg) /|/| soul [geek](http://tulrich.com/) />> Thatcher Ulrich.
+This weekend my band, [Giant Gowanus](http://giantgowan.us/), recorded in my downstairs hallway with the help of our friend, fellow [musician](https://open.spotify.com/artist/1rb7dRSPSAEGaOQouEx5Pg), soul [geek](http://tulrich.com/): Thatcher Ulrich.
 
 ![](../images/thatcher.jpg)
 
