@@ -23,7 +23,7 @@ And... it was the most fun I've ever had recording - even when screaming French 
 
 	"TURN IT DOWN! YOU ARE MAKING PEOPLE HYSTERICAL!"
 
-![](../images/all.jpg)
+![](../images/all.JPG)
 
  
 
