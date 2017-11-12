@@ -19,7 +19,7 @@ Way different than the days of studios, tape, and herculean effort when I record
 
 In this time when the unintended consequences of tech (see Facebook and Twitter) are threatening our democracy, its nice to have glimmers of what tech can do to democratize tools and information (not fake news) to make creative endeavors possible with very little $$$ or time.
 
-And... it was the most fun I've ever had recording - even when screaming French lady arrived at our doorstop admonishing us to:
+And... it was the most fun I've ever had recording - even when a screaming neighbor arrived at our doorstop admonishing us to:
 
 	"TURN IT DOWN! YOU ARE MAKING PEOPLE HYSTERICAL!"
 
