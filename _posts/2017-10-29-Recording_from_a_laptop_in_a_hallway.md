@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Recording from a Laptop in a Hallway 
+title: Recording on a Laptop from a Hallway 
 tags: music, tech
 
 ---
